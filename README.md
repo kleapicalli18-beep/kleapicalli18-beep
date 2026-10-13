@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Klea 👋
 
-<!--
-**kleapicalli18-beep/kleapicalli18-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing my skills in data analytics and business intelligence through practical projects.
 
-Here are some ideas to get you started:
+### My tools
+Python · Pandas · SQL Server · Power BI · DAX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+[End-to-End BI Platform](https://github.com/kleapicalli18-beep/end-to-end-bi-platform)
+
+An AdventureWorks analytics project covering data cleaning with Python, SQL data modeling and Power BI dashboards.
+
+### Currently learning
+How to build reliable data pipelines and communicate clear business insights.
